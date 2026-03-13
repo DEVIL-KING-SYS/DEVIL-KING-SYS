@@ -78,7 +78,6 @@
 ---
 
 <div align="center">
-  <p>Maintained by <b>DEVIL KING</b></p>
   <img src="https://img.shields.io/badge/Developer-DEVIL%20KING-red?style=for-the-badge" alt="Developer Badge" />
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status Badge" />
 </div>

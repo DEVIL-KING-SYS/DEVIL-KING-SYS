@@ -4,7 +4,7 @@
   
 <h3 align="center">
   <img src="https://github.com/DEVIL-KING-SYS/DEVIL-KING-SYS/blob/main/assets/anim/768b108d-274f-4f44-a634-8477b16efce7.gif" width="40">
-    𝐃𝐄𝐕𝐈𝐋 𝐊𝐈𝐍𝐆
+    𝐃𝐄𝐕𝐈𝐋 𝐊𝐔𝐌𝐀𝐑
   <img src="https://github.com/DEVIL-KING-SYS/DEVIL-KING-SYS/blob/main/assets/anim/768b108d-274f-4f44-a634-8477b16efce7.gif" width="40">
 </h3>
 
@@ -30,13 +30,13 @@
 <img align="center" alt="line" src="https://github.com/DEVIL-KING-SYS/DEVIL-KING-SYS/blob/main/assets/anim/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 👤 About Me
-- 😍 **NAME** :- 𝐃𝐄𝐕𝐈𝐋 𝐊𝐈𝐍𝐆
+- 😍 **NAME** :- 𝐃𝐄𝐕𝐈𝐋 𝐊𝐔𝐌𝐀𝐑
 - 🌐 **FROM** :- 𝐌𝐔𝐌𝐁𝐀𝐈
 - 🕉️ **RELIGION** :- 𝐇𝐈𝐍𝐃𝐔
 - 🎓 **EDUCATION** :- 𝐆𝐑𝐀𝐃𝐔𝐀𝐓𝐈𝐎𝐍 + 𝐂𝐎𝐌𝐏𝐔𝐓𝐄𝐑 𝐇𝐀𝐑𝐃𝐖𝐀𝐑𝐄 𝐒𝐎𝐅𝐓𝐖𝐀𝐑𝐄 & 𝐍𝐄𝐓𝐖𝐎𝐑𝐊𝐈𝐍𝐆
 - 👨‍💻 **PROFESSION** :- 𝐂𝐎𝐌𝐏𝐔𝐓𝐄𝐑 𝐄𝐍𝐆𝐈𝐍𝐄𝐄𝐑
 - 💻 **HOBBY** :- 𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐌𝐈𝐍𝐆 & 𝐂𝐎𝐃𝐈𝐍𝐆
-- 📱 **FACEBOOK** :- [Visit Profile](https://www.facebook.com/profile.php?id=100071688345097)
+- 📱 **FACEBOOK** :- [Visit Profile](https://www.facebook.com/profile.php?id=100022760917162)
 
 <img align="center" alt="line" src="https://github.com/DEVIL-KING-SYS/DEVIL-KING-SYS/blob/main/assets/anim/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -78,7 +78,7 @@
 ---
 
 <div align="center">
-  <p>Maintained by <b>DEVIL KING</b></p>
+  <p>Maintained by <b>DEVIL KUMAR</b></p>
   <img src="https://img.shields.io/badge/Developer-DEVIL%20KING-red?style=for-the-badge" alt="Developer Badge" />
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status Badge" />
 </div>

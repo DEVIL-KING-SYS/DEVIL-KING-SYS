@@ -21,13 +21,13 @@
 <img align="center" alt="line" src="https://github.com/DEVIL-KUMAR/DEVIL-KUMAR/blob/main/assets/anim/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 👤 About Me
-- 😍 **NAME** :- 𝗗𝗘𝗩𝗜𝗟 𝗞𝗨𝗠𝗔𝗥
-- 🌐 **FROM** :- 𝗠𝗨𝗠𝗕𝗔𝗜
-- 🕉️ **RELIGION** :- 𝗛𝗜𝗡𝗗𝗨
-- 🎓 **EDUCATION** :- 𝗚𝗥𝗔𝗗𝗨𝗔𝗧𝗜𝗢𝗡 + 𝗖𝗢𝗠𝗣𝗨𝗧𝗘𝗥 𝗛𝗔𝗥𝗗𝗪𝗔𝗥𝗘 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗔𝗡𝗗 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗜𝗡𝗚
-- 👨‍💻 **PROFESSION** :- 𝗦𝗬𝗦𝗧𝗘𝗠 𝗔𝗗𝗠𝗜𝗡𝗜𝗦𝗧𝗥𝗔𝗧𝗢𝗥
-- 💻 **HOBBY** :- 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚 𝗔𝗡𝗗 𝗖𝗢𝗗𝗜𝗡𝗚
-- 📱 **FACEBOOK** :- [Visit Profile](https://www.facebook.com/profile.php?id=100022760917162)
+- 😍 **Name** :- 𝗗𝗘𝗩𝗜𝗟 𝗞𝗨𝗠𝗔𝗥
+- 🌐 **From** :- 𝗠𝗨𝗠𝗕𝗔𝗜
+- 🕉️ **Religion** :- 𝗛𝗜𝗡𝗗𝗨
+- 🎓 **Education** :- 𝗚𝗥𝗔𝗗𝗨𝗔𝗧𝗜𝗢𝗡 + 𝗖𝗢𝗠𝗣𝗨𝗧𝗘𝗥 𝗛𝗔𝗥𝗗𝗪𝗔𝗥𝗘 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗔𝗡𝗗 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗜𝗡𝗚
+- 👨‍💻 **Profession** :- 𝗦𝗬𝗦𝗧𝗘𝗠 𝗔𝗗𝗠𝗜𝗡𝗜𝗦𝗧𝗥𝗔𝗧𝗢𝗥
+- 💻 **Hobby** :- 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚 𝗔𝗡𝗗 𝗖𝗢𝗗𝗜𝗡𝗚
+- 📱 **Facebook** :- [Visit Profile](https://www.facebook.com/profile.php?id=100022760917162)
 
 <img align="center" alt="line" src="https://github.com/DEVIL-KUMAR/DEVIL-KUMAR/blob/main/assets/anim/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

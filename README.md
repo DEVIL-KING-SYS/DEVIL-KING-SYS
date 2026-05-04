@@ -3,12 +3,12 @@
   <img src="https://img.shields.io/badge/PROGRAMMER-orange?style=flat-square&labelColor=FF8C00&color=FF8C00">
   
 <h3 align="center">
-  <img src="https://github.com/DEVIL-5005/DEVIL-5005/blob/main/assets/anim/768b108d-274f-4f44-a634-8477b16efce7.gif" width="40">
+  <img src="https://github.com/JAYKUMARDX/JAYKUMARDX/blob/main/assets/anim/768b108d-274f-4f44-a634-8477b16efce7.gif" width="40">
     𝐃𝐄𝐕𝐈𝐋
-  <img src="https://github.com/DEVIL-5005/DEVIL-5005/blob/main/assets/anim/768b108d-274f-4f44-a634-8477b16efce7.gif" width="40">
+  <img src="https://github.com/JAYKUMARDX/JAYKUMARDX/blob/main/assets/anim/768b108d-274f-4f44-a634-8477b16efce7.gif" width="40">
 </h3>
 
-<img align="center" alt="line" src="https://github.com/DEVIL-5005/DEVIL-5005/blob/main/assets/anim/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="center" alt="line" src="https://github.com/JAYKUMARDX/JAYKUMARDX/blob/main/assets/anim/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </p>
 
@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<img align="center" alt="line" src="https://github.com/DEVIL-5005/DEVIL-5005/blob/main/assets/anim/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="center" alt="line" src="https://github.com/JAYKUMARDX/JAYKUMARDX/blob/main/assets/anim/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 👤 About Me
 - 😍 **Name** :- 𝗗𝗘𝗩𝗜𝗟
@@ -28,7 +28,7 @@
 - 💻 **Hobby** :- 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚 𝗔𝗡𝗗 𝗖𝗢𝗗𝗜𝗡𝗚
 - 📱 **Facebook** :- [Visit Profile](https://www.facebook.com/profile.php?id=100071688345097)
 
-<img align="center" alt="line" src="https://github.com/DEVIL-5005/DEVIL-5005/blob/main/assets/anim/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="center" alt="line" src="https://github.com/JAYKUMARDX/JAYKUMARDX/blob/main/assets/anim/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ⚙️ Language & Programming
 <table>
@@ -69,7 +69,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Developer-DEVIL-red?style=for-the-badge" alt="Developer Badge" />
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status Badge" />
-  <p><a href="mailto:devilkumardx@gmail.com"><b>Contact</b></a></p>
+  <p><a href="mailto:jaykumardx@gmail.com"><b>Contact</b></a></p>
 </div>
 
 <br>

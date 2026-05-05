@@ -68,7 +68,7 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Developer-DEVIL-red?style=for-the-badge" alt="Developer Badge" />
+  <img src="https://img.shields.io/badge/Developer-JAY%20KUMAR-red?style=for-the-badge" alt="Developer Badge" />
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status Badge" />
   <p><a href="mailto:jaykumardx@gmail.com"><b>Contact</b></a></p>
 </div>
